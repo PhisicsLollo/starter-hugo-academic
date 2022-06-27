@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: python
-    icon_pack: fa
+    icon_pack: far
     name: Python
   - description: 100%
     icon: chart-line
