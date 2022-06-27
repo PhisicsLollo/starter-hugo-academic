@@ -1,15 +1,14 @@
 ---
 abstract: ""
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 authors:
   - admin
-  - GabrieleCescutti
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Gabriele Cescutti
+  - Francesca Matteucci
+summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
@@ -17,16 +16,15 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: In MNRAS
-featured: true
-date: 2013-07-01T00:00:00Z
+featured: false
+date: 2021-02-03T01:00:00.000Z
 url_slides: ""
 title: "Neutron stars mergers in a stochastic chemical evolution model: impact
   of time delay distributions "
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00Z
