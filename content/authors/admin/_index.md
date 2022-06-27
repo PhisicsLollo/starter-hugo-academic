@@ -1,7 +1,7 @@
 ---
 role: PhD Student in Astronomy
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include distributed neutron star mergers,
+  multi-messanger astrophysics and chemical evolution of galaxies.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
