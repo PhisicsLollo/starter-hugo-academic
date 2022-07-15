@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Astronomy
-avatar_filename: photo5836975686613580425.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed neutron star mergers,
   multi-messanger astrophysics and chemical evolution of galaxies.
 interests:
