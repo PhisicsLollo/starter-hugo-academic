@@ -4,6 +4,7 @@ widget_id: Publications
 weight: 90
 title: Publications
 subtitle: ""
+active: true
 content:
   filters:
     folders:
@@ -23,7 +24,3 @@ design:
   view: citation
   columns: "2"
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
