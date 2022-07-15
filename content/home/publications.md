@@ -21,6 +21,6 @@ content:
   order: desc
 headless: true
 design:
-  view: citation
+  view: card
   columns: "2"
 ---
