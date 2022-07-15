@@ -27,7 +27,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: stab281fig2.jpeg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
