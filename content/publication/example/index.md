@@ -16,7 +16,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: In MNRAS
-featured: false
+featured: true
 date: 2021-02-03T01:00:00.000Z
 url_slides: ""
 title: "Neutron stars mergers in a stochastic chemical evolution model: impact
